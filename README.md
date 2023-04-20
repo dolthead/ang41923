@@ -1,7 +1,7 @@
 # ang41923
 Angular 16 Ionic 7 PWA with asset generator
 
-> `npm i -g @ionic/cli@latest1`
+> `npm i -g @ionic/cli@latest`
 
 > `ionic start ng16ion7 tabs --type=angular`
 
